@@ -1,0 +1,8 @@
+name: PRCore
+main: PR\Main
+version: 1.0.0
+api: [1.0.0]
+
+load: POSTWORLD
+author: PR Team
+description: PR Core Plugin
